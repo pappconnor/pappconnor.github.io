@@ -1,0 +1,70 @@
+/* =================================================================== */
+/* YELLOW #ffb400
+====================================================================== */
+
+.back-mobile,
+.social-home ul li a:hover,
+body.dark .social-home ul li a:hover,
+.btn-secondary,
+.meta a,
+.meta i,
+section#blog article h4:hover,
+body.dark section#blog article h4:hover,
+body.dark.blog article a h4:hover,
+.slider-text h1 span,
+.contact-container .contact .leftside h6,
+.divider .fa,
+ul.social-intro li a:hover,
+body.dark ul.social-intro li a:hover,
+.page-title h2 span:nth-child(2),
+.skills .resume-content i,
+.badges h3 span,
+.widget.recent-posts .entry-title a:hover,
+.sidebar ul.nav-tabs li.active a, 
+.sidebar ul.nav-tabs li:hover a,
+.blog .btn.back-homepage,
+.blog article h4:hover,
+.blog.dark .sidebar ul.nav-tabs li a:hover,
+.blog.dark .widget.recent-posts .entry-title a:hover,
+body.blog.dark .comments-list .comment-reply:hover,
+body.blog.dark .comments-list .comment-reply:hover,
+.blog .btn.back {
+	color: #ffb400;
+}
+.resume-card-name {
+	color: #ffb400 !important;
+}
+.blog .btn.back-homepage:hover,
+span.separator,
+.resume-list-item-inner,
+.carousel .indicators .indicator-item.active,
+.widget-tags ul > li a:hover,
+.blog .pagination li.active,
+.comments-form button,
+.comments-form button:hover,
+.comments-form button:focus,
+.comments-form button:active,
+.blog .btn.back:hover,
+.navigation li.active,
+.navigation li:hover,
+body.dark .navigation li.active,
+body.dark .navigation li:hover,
+.navigation>li>span,
+.btn,
+.btn:hover,
+.btn:focus,
+.back-mobile{
+	background: #ffb400;
+}
+.navigation>li span:after {
+	border-right-color: #ffb400;
+}
+.btn.btn-secondary,
+.blog .btn.back  {
+	border:1px solid #ffb400;
+}
+@media only screen and (max-width: 992px) {
+	#header {
+		background: #ffb400;
+	}
+}
